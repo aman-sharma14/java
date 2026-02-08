@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-public class recursion2 {
+public class backtracking {
 
     //print string n times
     static void printStr(String s , int n){
